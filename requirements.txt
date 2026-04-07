@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+opencv-python
+numpy
+pydub
+PyMuPDF
+Pillow
+
+
